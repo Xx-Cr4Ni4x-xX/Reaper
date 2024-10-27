@@ -41,7 +41,11 @@ This Discord bot, built using `nextcord`, helps manage dynamic custom channels i
    ```
 3. Create a `.env` file to store the bot token.
    ```sh
-   DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN
+   APP_ID=
+DISCORD_TOKEN=
+PUBLIC_KEY=
+CLIENT_ID=
+CLIENT_SECRET=
    ```
 4. Run the bot.
    ```sh
